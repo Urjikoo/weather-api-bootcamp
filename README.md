@@ -8,4 +8,4 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'd appriciate a feedback on my Javascript...
 
-![WeatherprojectScreenshot](image.url)<img src=“WeatherprojectScreenshot.png” width=70% height=70%>
+![WeatherprojectScreenshot]<img src=“WeatherprojectScreenshot.png” width=70% height=70%>
