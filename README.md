@@ -8,3 +8,4 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'd appriciate a feedback on my Javascript...
 ```
+<img src=“WeatherprojectScreenshot.png” width=78%>
